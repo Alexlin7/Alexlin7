@@ -48,8 +48,7 @@
 ---
 
 ### 📬 聯繫我
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_ID)
-- 📧 [Email](mailto:YOUR_EMAIL@example.com)
+- 📧 [Email](mailto:alexlin7@alexlin7.cc)
 
 <p align="right">
   <img src="https://github-readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6DB33F&width=500&lines=專注於可觀測性架構設計...;SSO+系統部署實踐中...;透過組合+A%2BB+解決技術挑戰。" alt="Typing SVG" />
